@@ -18,12 +18,23 @@ and can see some basic information about the selected pokemons.
 ```
 
 
+
 ## How to run this app
 
-1. `git clone git clone https://github.com/Rohit-Nandagawali/FlashType`
-2. `npm install`
-3. `npm start`
+1. Clone the repository 
+ ```
+ git clone git clone https://github.com/Rohit-Nandagawali/pokedex
+ ```
+ 
+2. Install all the required packages 
+```
+npm install
+```
 
+3. Run the project
+```
+npm start
+```
 ## Special Thanks
 
 Special thanks to these 2 npm packages
