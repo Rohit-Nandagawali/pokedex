@@ -3,7 +3,7 @@
 A website for pokemon lovers ❤ A website where we can search pokemon, 
 and can see some basic information about the selected pokemons. 
  - This website is created using - TypeScipt and React Js
-[Go to Pokedex](https://rohit-nandagawali.github.io/pokedex/)
+ - [Go to Pokedex](https://rohit-nandagawali.github.io/pokedex/)
 
 
 ## Include the fonts s in index.html
